@@ -1,0 +1,11 @@
+name: Tatyana Savchenko
+job: QA Engineer
+level: junior
+email: tatyana60990@yandex.ru
+description: |
+  Freshman QA Engineer 
+skills: # список навыков в виде списка, напишите что-то свое
+  - функциональное тестирование
+  - написание багрепортов
+  - Linux
+  - английский язык B2
